@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\download_activity.xml",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\layout\\download_activity.xml"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\backup_channels_activity.xml",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\layout\\backup_channels_activity.xml"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\channel_details_activity.xml",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\layout\\channel_details_activity.xml"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\channel_list_item.xml",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\layout\\channel_list_item.xml"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_compat.xml",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\layout\\actionbar_compat.xml"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\count_item.xml",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\layout\\count_item.xml"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\player_notify.xml",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\layout\\player_notify.xml"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\channels_activity.xml",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\layout\\channels_activity.xml"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\framed_grid.xml",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\layout\\framed_grid.xml"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\player_activity.xml",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\layout\\player_activity.xml"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\startup_activity.xml",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\layout\\startup_activity.xml"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\channels_channel.xml",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\layout\\channels_channel.xml"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_channel_activity.xml",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\layout\\add_channel_activity.xml"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_activity.xml",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\layout\\search_activity.xml"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\download_item.xml",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\layout\\download_item.xml"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\episodes_activity.xml",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\layout\\episodes_activity.xml"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\channel_activity.xml",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\layout\\channel_activity.xml"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\labeled_frame.xml",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\layout\\labeled_frame.xml"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_activity.xml",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_item.xml",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\layout\\main_item.xml"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\episode_details_activity.xml",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\layout\\episode_details_activity.xml"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_item_multiline.xml",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\layout\\select_item_multiline.xml"
+    }
+]

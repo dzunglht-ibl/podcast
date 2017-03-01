@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="info.xuluan.podcastj"
+    android:versionCode="104"
+    android:versionName="1.2.1.104" >
+
+    <uses-sdk
+        android:allowBackup="true"
+        android:minSdkVersion="8"
+        android:targetSdkVersion="8" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true" />
+
+    <instrumentation
+        android:name="android.test.InstrumentationTestRunner"
+        android:label="Hapi Podcast test"
+        android:targetPackage="info.xuluan.podcastj" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name" >
+        <uses-library android:name="android.test.runner" />
+
+        <activity
+            android:name="info.xuluan.podcast.StartupActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="info.xuluan.podcast.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="info.xuluan.podcast.EpisodesActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="info.xuluan.podcast.EpisodeDetailsActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.EDIT" />
+
+                <data android:mimeType="vnd.android.cursor.item/vnd.xuluan.podcast.item" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="info.xuluan.podcast.PlayerActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="info.xuluan.podcast.SearchActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="info.xuluan.podcast.ChannelActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.EDIT" />
+
+                <data android:mimeType="vnd.android.cursor.item/vnd.xuluan.podcast.subscription" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="info.xuluan.podcast.ChannelDetailsActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <data android:mimeType="vnd.android.cursor.item/vnd.xuluan.podcast.subscription" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="info.xuluan.podcast.ChannelsActivity"
+            android:label="@string/app_name" />
+        <activity
+            android:name="info.xuluan.podcast.AddChannelActivity"
+            android:label="@string/title_channels" />
+        <activity
+            android:name="info.xuluan.podcast.BackupChannelsActivity"
+            android:label="@string/title_channels" />
+        <activity
+            android:name="info.xuluan.podcast.Pref"
+            android:label="Settings" />
+        <activity
+            android:name="info.xuluan.podcast.HomeActivity"
+            android:label="@string/app_name" />
+        <activity
+            android:name="info.xuluan.podcast.DownloadActivity"
+            android:label="Downloading" />
+
+        <service
+            android:name="info.xuluan.podcast.service.PodcastService"
+            android:enabled="true" />
+        <service
+            android:name="info.xuluan.podcast.service.PlayerService"
+            android:enabled="true" />
+
+        <provider
+            android:name="info.xuluan.podcast.provider.PodcastProvider"
+            android:authorities="info.xuluan.podcast.provider.podcastprovider" />
+    </application>
+
+</manifest>

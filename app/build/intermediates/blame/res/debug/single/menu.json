@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\search_activity.xml",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\menu\\search_activity.xml"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\channel_details_activity.xml",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\menu\\channel_details_activity.xml"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\backup_channels_activity.xml",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\menu\\backup_channels_activity.xml"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\channel_activity.xml",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\menu\\channel_activity.xml"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\player_activity.xml",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\menu\\player_activity.xml"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\channels_activity.xml",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\menu\\channels_activity.xml"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\episodes_activity.xml",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\menu\\episodes_activity.xml"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\add_channel_activity.xml",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\menu\\add_channel_activity.xml"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\episode_details_activity.xml",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\menu\\episode_details_activity.xml"
+    }
+]

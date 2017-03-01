@@ -1,0 +1,7 @@
+#Wed Mar 01 23:52:31 ICT 2017
+base.0=D\:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_93476ae0ad1a719ac7c98ae9e5aebeaf26a64b53
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fb3cd0b67f8d1394eeb84927844cddbae3e6eac9\\classes.dex
+base.1=D\:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fb3cd0b67f8d1394eeb84927844cddbae3e6eac9
+file.0=D\:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_93476ae0ad1a719ac7c98ae9e5aebeaf26a64b53\\classes.dex

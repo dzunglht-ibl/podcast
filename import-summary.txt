@@ -1,0 +1,66 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* COPYRIGHT
+* HISTORY
+* LICENSE
+* README.md
+* default.properties
+* misc\
+* misc\icon512.png
+* misc\icons\
+* misc\icons\blank.graffle
+* misc\icons\delete.graffle
+* misc\icons\deleted.graffle
+* misc\icons\download_pause.graffle
+* misc\icons\download_wait.graffle
+* misc\icons\downloading.graffle
+* misc\icons\feed_new.graffle
+* misc\icons\feed_viewed.graffle
+* misc\icons\framed_border.graffle
+* misc\icons\home_button_focused.graffle
+* misc\icons\home_button_normal.graffle
+* misc\icons\home_button_pressed.graffle
+* misc\icons\keep.graffle
+* misc\icons\play_pause.graffle
+* misc\icons\play_ready.graffle
+* misc\icons\playable.graffle
+* misc\icons\played.graffle
+* misc\icons\playing.graffle
+* misc\icons\suspended.graffle
+* screenshots\
+* screenshots\channels-subscrips.png
+* screenshots\episodes-library.png
+* screenshots\home-landscape.png
+* screenshots\home-portrait.png
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

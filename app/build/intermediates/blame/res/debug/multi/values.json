@@ -1,0 +1,2048 @@
+[
+    {
+        "outputFile": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 240
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 245,
+                    "endLine": 14,
+                    "endColumn": 19,
+                    "endOffset": 484
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 489,
+                    "endLine": 23,
+                    "endColumn": 19,
+                    "endOffset": 747
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 752,
+                    "endLine": 32,
+                    "endColumn": 19,
+                    "endOffset": 1001
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1006,
+                    "endLine": 39,
+                    "endColumn": 19,
+                    "endOffset": 1242
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1247,
+                    "endLine": 49,
+                    "endColumn": 19,
+                    "endOffset": 1510
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 1515,
+                    "endLine": 58,
+                    "endColumn": 19,
+                    "endOffset": 1804
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 1809,
+                    "endLine": 67,
+                    "endColumn": 19,
+                    "endOffset": 2077
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 2082,
+                    "endLine": 75,
+                    "endColumn": 19,
+                    "endOffset": 2302
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 2307,
+                    "endLine": 84,
+                    "endColumn": 19,
+                    "endOffset": 2541
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 2546,
+                    "endLine": 93,
+                    "endColumn": 19,
+                    "endOffset": 2775
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 2780,
+                    "endLine": 100,
+                    "endColumn": 19,
+                    "endOffset": 2980
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 2985,
+                    "endLine": 110,
+                    "endColumn": 16,
+                    "endOffset": 3249
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 3254,
+                    "endLine": 119,
+                    "endColumn": 19,
+                    "endOffset": 3490
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 3495,
+                    "endLine": 128,
+                    "endColumn": 19,
+                    "endOffset": 3735
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 3740,
+                    "endLine": 133,
+                    "endColumn": 19,
+                    "endOffset": 3890
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 3895,
+                    "endLine": 140,
+                    "endColumn": 19,
+                    "endOffset": 4084
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 4089,
+                    "endLine": 145,
+                    "endColumn": 19,
+                    "endOffset": 4249
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 4829,
+                    "endColumn": 65,
+                    "endOffset": 4890
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 4895,
+                    "endColumn": 60,
+                    "endOffset": 4951
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 4956,
+                    "endColumn": 54,
+                    "endOffset": 5006
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 5011,
+                    "endColumn": 42,
+                    "endOffset": 5049
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 5054,
+                    "endColumn": 48,
+                    "endOffset": 5098
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 5103,
+                    "endColumn": 49,
+                    "endOffset": 5148
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 5153,
+                    "endColumn": 50,
+                    "endOffset": 5199
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 5204,
+                    "endColumn": 49,
+                    "endOffset": 5249
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 5254,
+                    "endColumn": 46,
+                    "endOffset": 5296
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 5301,
+                    "endColumn": 42,
+                    "endOffset": 5339
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 5344,
+                    "endColumn": 45,
+                    "endOffset": 5385
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 5390,
+                    "endColumn": 58,
+                    "endOffset": 5444
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 5449,
+                    "endColumn": 67,
+                    "endOffset": 5512
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 5517,
+                    "endColumn": 51,
+                    "endOffset": 5564
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 5569,
+                    "endColumn": 40,
+                    "endOffset": 5605
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 5610,
+                    "endColumn": 33,
+                    "endOffset": 5639
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 5644,
+                    "endColumn": 42,
+                    "endOffset": 5682
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 5687,
+                    "endColumn": 41,
+                    "endOffset": 5724
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 5729,
+                    "endColumn": 44,
+                    "endOffset": 5769
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 5774,
+                    "endColumn": 34,
+                    "endOffset": 5804
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 5809,
+                    "endColumn": 34,
+                    "endOffset": 5839
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 5844,
+                    "endColumn": 34,
+                    "endOffset": 5874
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 5879,
+                    "endColumn": 79,
+                    "endOffset": 5954
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 5959,
+                    "endColumn": 53,
+                    "endOffset": 6008
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 53,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 6013,
+                    "endColumn": 64,
+                    "endOffset": 6073
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 6078,
+                    "endColumn": 55,
+                    "endOffset": 6129
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 6134,
+                    "endColumn": 109,
+                    "endOffset": 6239
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 6244,
+                    "endColumn": 48,
+                    "endOffset": 6288
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 6293,
+                    "endColumn": 48,
+                    "endOffset": 6337
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 6342,
+                    "endColumn": 61,
+                    "endOffset": 6399
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 6404,
+                    "endColumn": 63,
+                    "endOffset": 6463
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 6468,
+                    "endColumn": 43,
+                    "endOffset": 6507
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 6512,
+                    "endColumn": 54,
+                    "endOffset": 6562
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 6567,
+                    "endColumn": 60,
+                    "endOffset": 6623
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 6628,
+                    "endColumn": 63,
+                    "endOffset": 6687
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 6692,
+                    "endColumn": 69,
+                    "endOffset": 6757
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 6762,
+                    "endColumn": 60,
+                    "endOffset": 6818
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 6823,
+                    "endColumn": 54,
+                    "endOffset": 6873
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 6878,
+                    "endColumn": 72,
+                    "endOffset": 6946
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 6951,
+                    "endColumn": 69,
+                    "endOffset": 7016
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 7021,
+                    "endColumn": 86,
+                    "endOffset": 7103
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 7108,
+                    "endColumn": 77,
+                    "endOffset": 7181
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 7186,
+                    "endColumn": 60,
+                    "endOffset": 7242
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 7247,
+                    "endColumn": 63,
+                    "endOffset": 7306
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 7311,
+                    "endColumn": 56,
+                    "endOffset": 7363
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 7368,
+                    "endColumn": 71,
+                    "endOffset": 7435
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 7440,
+                    "endColumn": 62,
+                    "endOffset": 7498
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 7503,
+                    "endColumn": 64,
+                    "endOffset": 7563
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 7568,
+                    "endColumn": 62,
+                    "endOffset": 7626
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 7631,
+                    "endColumn": 56,
+                    "endOffset": 7683
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 7688,
+                    "endColumn": 37,
+                    "endOffset": 7721
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 7726,
+                    "endColumn": 90,
+                    "endOffset": 7812
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 7817,
+                    "endColumn": 57,
+                    "endOffset": 7870
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 7875,
+                    "endColumn": 65,
+                    "endOffset": 7936
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 7941,
+                    "endColumn": 81,
+                    "endOffset": 8018
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 8023,
+                    "endColumn": 72,
+                    "endOffset": 8091
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 8096,
+                    "endColumn": 40,
+                    "endOffset": 8132
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 8137,
+                    "endColumn": 64,
+                    "endOffset": 8197
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 8202,
+                    "endColumn": 60,
+                    "endOffset": 8258
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 8263,
+                    "endColumn": 42,
+                    "endOffset": 8301
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 8306,
+                    "endColumn": 64,
+                    "endOffset": 8366
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 8371,
+                    "endColumn": 46,
+                    "endOffset": 8413
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 8418,
+                    "endColumn": 44,
+                    "endOffset": 8458
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 8463,
+                    "endColumn": 46,
+                    "endOffset": 8505
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 8510,
+                    "endColumn": 48,
+                    "endOffset": 8554
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 8559,
+                    "endColumn": 48,
+                    "endOffset": 8603
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 8608,
+                    "endColumn": 50,
+                    "endOffset": 8654
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 8659,
+                    "endColumn": 50,
+                    "endOffset": 8705
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 8710,
+                    "endColumn": 68,
+                    "endOffset": 8774
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 8779,
+                    "endColumn": 68,
+                    "endOffset": 8843
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 8848,
+                    "endColumn": 60,
+                    "endOffset": 8904
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 220,
+                    "startColumn": 4,
+                    "startOffset": 8909,
+                    "endColumn": 78,
+                    "endOffset": 8983
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 8988,
+                    "endColumn": 42,
+                    "endOffset": 9026
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 9031,
+                    "endColumn": 60,
+                    "endOffset": 9087
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 9092,
+                    "endColumn": 50,
+                    "endOffset": 9138
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 9143,
+                    "endColumn": 64,
+                    "endOffset": 9203
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 9208,
+                    "endColumn": 64,
+                    "endOffset": 9268
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 9273,
+                    "endColumn": 60,
+                    "endOffset": 9329
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 9334,
+                    "endColumn": 59,
+                    "endOffset": 9389
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 9394,
+                    "endColumn": 52,
+                    "endOffset": 9442
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 9447,
+                    "endColumn": 48,
+                    "endOffset": 9491
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 9496,
+                    "endColumn": 38,
+                    "endOffset": 9530
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 9535,
+                    "endColumn": 44,
+                    "endOffset": 9575
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 9580,
+                    "endColumn": 42,
+                    "endOffset": 9618
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 9623,
+                    "endColumn": 52,
+                    "endOffset": 9671
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 234,
+                    "startColumn": 4,
+                    "startOffset": 9676,
+                    "endColumn": 48,
+                    "endOffset": 9720
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 9725,
+                    "endColumn": 72,
+                    "endOffset": 9793
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 236,
+                    "startColumn": 4,
+                    "startOffset": 9798,
+                    "endColumn": 46,
+                    "endOffset": 9840
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 237,
+                    "startColumn": 4,
+                    "startOffset": 9845,
+                    "endColumn": 54,
+                    "endOffset": 9895
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 9900,
+                    "endColumn": 51,
+                    "endOffset": 9947
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 9952,
+                    "endColumn": 46,
+                    "endOffset": 9994
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 240,
+                    "startColumn": 4,
+                    "startOffset": 9999,
+                    "endColumn": 64,
+                    "endOffset": 10059
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 241,
+                    "startColumn": 4,
+                    "startOffset": 10064,
+                    "endColumn": 51,
+                    "endOffset": 10111
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 10116,
+                    "endColumn": 44,
+                    "endOffset": 10156
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 243,
+                    "startColumn": 4,
+                    "startOffset": 10161,
+                    "endColumn": 47,
+                    "endOffset": 10204
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 244,
+                    "startColumn": 4,
+                    "startOffset": 10209,
+                    "endColumn": 48,
+                    "endOffset": 10253
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 245,
+                    "startColumn": 4,
+                    "startOffset": 10258,
+                    "endColumn": 46,
+                    "endOffset": 10300
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 246,
+                    "startColumn": 4,
+                    "startOffset": 10305,
+                    "endColumn": 56,
+                    "endOffset": 10357
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 247,
+                    "startColumn": 4,
+                    "startOffset": 10362,
+                    "endColumn": 52,
+                    "endOffset": 10410
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 248,
+                    "startColumn": 4,
+                    "startOffset": 10415,
+                    "endColumn": 46,
+                    "endOffset": 10457
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 249,
+                    "startColumn": 4,
+                    "startOffset": 10462,
+                    "endColumn": 42,
+                    "endOffset": 10500
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 250,
+                    "startColumn": 4,
+                    "startOffset": 10505,
+                    "endColumn": 58,
+                    "endOffset": 10559
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 251,
+                    "startColumn": 4,
+                    "startOffset": 10564,
+                    "endColumn": 58,
+                    "endOffset": 10618
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 10623,
+                    "endColumn": 53,
+                    "endOffset": 10672
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 253,
+                    "startColumn": 4,
+                    "startOffset": 10677,
+                    "endColumn": 57,
+                    "endOffset": 10730
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 254,
+                    "startColumn": 4,
+                    "startOffset": 10735,
+                    "endColumn": 55,
+                    "endOffset": 10786
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 255,
+                    "startColumn": 4,
+                    "startOffset": 10791,
+                    "endColumn": 59,
+                    "endOffset": 10846
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 256,
+                    "startColumn": 4,
+                    "startOffset": 10851,
+                    "endColumn": 35,
+                    "endOffset": 10882
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 257,
+                    "startColumn": 4,
+                    "startOffset": 10887,
+                    "endColumn": 33,
+                    "endOffset": 10916
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 258,
+                    "startColumn": 4,
+                    "startOffset": 10921,
+                    "endColumn": 122,
+                    "endOffset": 11039
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 259,
+                    "startColumn": 4,
+                    "startOffset": 11044,
+                    "endColumn": 76,
+                    "endOffset": 11116
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 260,
+                    "startColumn": 4,
+                    "startOffset": 11121,
+                    "endColumn": 90,
+                    "endOffset": 11207
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 261,
+                    "startColumn": 4,
+                    "startOffset": 11212,
+                    "endColumn": 85,
+                    "endOffset": 11293
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 11298,
+                    "endColumn": 56,
+                    "endOffset": 11350
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 11355,
+                    "endColumn": 52,
+                    "endOffset": 11403
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 264,
+                    "startColumn": 4,
+                    "startOffset": 11408,
+                    "endColumn": 48,
+                    "endOffset": 11452
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 265,
+                    "startColumn": 4,
+                    "startOffset": 11457,
+                    "endColumn": 116,
+                    "endOffset": 11569
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 266,
+                    "startColumn": 4,
+                    "startOffset": 11574,
+                    "endColumn": 70,
+                    "endOffset": 11640
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 267,
+                    "startColumn": 4,
+                    "startOffset": 11645,
+                    "endColumn": 90,
+                    "endOffset": 11731
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 11736,
+                    "endColumn": 66,
+                    "endOffset": 11798
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 269,
+                    "startColumn": 4,
+                    "startOffset": 11803,
+                    "endColumn": 80,
+                    "endOffset": 11879
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 270,
+                    "startColumn": 4,
+                    "startOffset": 11884,
+                    "endColumn": 70,
+                    "endOffset": 11950
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 271,
+                    "startColumn": 4,
+                    "startOffset": 11955,
+                    "endColumn": 123,
+                    "endOffset": 12074
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 272,
+                    "startColumn": 4,
+                    "startOffset": 12079,
+                    "endColumn": 73,
+                    "endOffset": 12148
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 12153,
+                    "endColumn": 78,
+                    "endOffset": 12227
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 12232,
+                    "endColumn": 73,
+                    "endOffset": 12301
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 275,
+                    "startColumn": 4,
+                    "startOffset": 12306,
+                    "endColumn": 119,
+                    "endOffset": 12421
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 276,
+                    "startColumn": 4,
+                    "startOffset": 12426,
+                    "endColumn": 70,
+                    "endOffset": 12492
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 277,
+                    "startColumn": 4,
+                    "startOffset": 12497,
+                    "endColumn": 107,
+                    "endOffset": 12600
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 278,
+                    "startColumn": 4,
+                    "startOffset": 12605,
+                    "endColumn": 67,
+                    "endOffset": 12668
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 12673,
+                    "endColumn": 59,
+                    "endOffset": 12728
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 280,
+                    "startColumn": 4,
+                    "startOffset": 12733,
+                    "endColumn": 47,
+                    "endOffset": 12776
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 281,
+                    "startColumn": 4,
+                    "startOffset": 12781,
+                    "endColumn": 43,
+                    "endOffset": 12820
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 12825,
+                    "endColumn": 63,
+                    "endOffset": 12884
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 283,
+                    "startColumn": 4,
+                    "startOffset": 12889,
+                    "endColumn": 56,
+                    "endOffset": 12941
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 284,
+                    "startColumn": 4,
+                    "startOffset": 12946,
+                    "endColumn": 51,
+                    "endOffset": 12993
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 285,
+                    "startColumn": 4,
+                    "startOffset": 12998,
+                    "endColumn": 64,
+                    "endOffset": 13058
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 286,
+                    "startColumn": 4,
+                    "startOffset": 13063,
+                    "endColumn": 51,
+                    "endOffset": 13110
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 287,
+                    "startColumn": 4,
+                    "startOffset": 13115,
+                    "endColumn": 49,
+                    "endOffset": 13160
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 288,
+                    "startColumn": 4,
+                    "startOffset": 13165,
+                    "endColumn": 52,
+                    "endOffset": 13213
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 289,
+                    "startColumn": 4,
+                    "startOffset": 13218,
+                    "endColumn": 47,
+                    "endOffset": 13261
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 13266,
+                    "endColumn": 47,
+                    "endOffset": 13309
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 291,
+                    "startColumn": 4,
+                    "startOffset": 13314,
+                    "endColumn": 63,
+                    "endOffset": 13373
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 292,
+                    "startColumn": 4,
+                    "startOffset": 13378,
+                    "endColumn": 47,
+                    "endOffset": 13421
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 293,
+                    "startColumn": 4,
+                    "startOffset": 13426,
+                    "endColumn": 69,
+                    "endOffset": 13491
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 294,
+                    "startColumn": 4,
+                    "startOffset": 13496,
+                    "endColumn": 51,
+                    "endOffset": 13543
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 13548,
+                    "endColumn": 87,
+                    "endOffset": 13631
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 296,
+                    "startColumn": 4,
+                    "startOffset": 13636,
+                    "endColumn": 67,
+                    "endOffset": 13699
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 297,
+                    "startColumn": 4,
+                    "startOffset": 13704,
+                    "endColumn": 56,
+                    "endOffset": 13756
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 298,
+                    "startColumn": 4,
+                    "startOffset": 13761,
+                    "endColumn": 35,
+                    "endOffset": 13792
+                },
+                "from": {
+                    "file": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            }
+        ]
+    }
+]

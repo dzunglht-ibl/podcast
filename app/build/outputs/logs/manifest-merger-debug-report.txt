@@ -1,0 +1,221 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:2:1-89:12
+	package
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:3:6-36
+		INJECTED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:4:9-40
+		INJECTED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:5:9-34
+		INJECTED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:7:2-8:35
+	android:targetSdkVersion
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:7:38-66
+		INJECTED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml
+	android:allowBackup
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:8:6-32
+	android:minSdkVersion
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:7:12-37
+		INJECTED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:15:22-72
+uses-permission#android.permission.VIBRATE
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:16:5-66
+	android:name
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:16:22-63
+supports-screens
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:18:5-20:31
+	android:largeScreens
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:18:23-50
+	android:smallScreens
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:19:32-59
+	android:normalScreens
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:19:3-31
+	android:anyDensity
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:20:3-28
+application
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:22:5-84:19
+	android:label
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:24:10-42
+	android:allowBackup
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:25:10-36
+	android:icon
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:23:10-39
+uses-library#android.test.runner
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:26:9-60
+	android:name
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:26:23-57
+activity#info.xuluan.podcast.StartupActivity
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:28:9-33:20
+	android:label
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:28:70-102
+	android:name
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:28:19-69
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:29:13-32:29
+action#android.intent.action.MAIN
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:31:27-74
+activity#info.xuluan.podcast.MainActivity
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:34:9-39:20
+	android:label
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:34:67-99
+	android:name
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:34:19-66
+intent-filter#android.intent.action.MAIN
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:35:13-38:29
+activity#info.xuluan.podcast.EpisodesActivity
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:40:9-42:20
+	android:label
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:41:19-51
+	android:name
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:40:19-70
+activity#info.xuluan.podcast.EpisodeDetailsActivity
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:43:9-51:20
+	android:label
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:43:77-109
+	android:name
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:43:19-76
+intent-filter#android.intent.action.EDIT+android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:44:13-50:28
+action#android.intent.action.EDIT
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:46:17-69
+	android:name
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:46:25-66
+data
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:47:17-92
+	android:mimeType
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:47:23-89
+category#android.intent.category.DEFAULT
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:49:17-76
+	android:name
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:49:27-73
+activity#info.xuluan.podcast.PlayerActivity
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:52:9-53:20
+	android:label
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:52:69-101
+	android:name
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:52:19-68
+activity#info.xuluan.podcast.SearchActivity
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:55:9-56:20
+	android:label
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:55:69-101
+	android:name
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:55:19-68
+activity#info.xuluan.podcast.ChannelActivity
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:58:9-65:20
+	android:label
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:58:70-102
+	android:name
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:58:19-69
+activity#info.xuluan.podcast.ChannelDetailsActivity
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:67:9-73:20
+	android:label
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:67:77-109
+	android:name
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:67:19-76
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:68:13-72:29
+action#android.intent.action.VIEW
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:69:17-69
+	android:name
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:69:25-66
+activity#info.xuluan.podcast.ChannelsActivity
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:75:9-115
+	android:label
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:75:71-103
+	android:name
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:75:19-70
+activity#info.xuluan.podcast.AddChannelActivity
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:76:9-123
+	android:label
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:76:73-111
+	android:name
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:76:19-72
+activity#info.xuluan.podcast.BackupChannelsActivity
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:77:9-127
+	android:label
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:77:77-115
+	android:name
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:77:19-76
+activity#info.xuluan.podcast.Pref
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:78:9-95
+	android:label
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:78:59-83
+	android:name
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:78:19-58
+activity#info.xuluan.podcast.HomeActivity
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:79:9-111
+	android:label
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:79:67-99
+	android:name
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:79:19-66
+activity#info.xuluan.podcast.DownloadActivity
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:80:9-110
+	android:label
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:80:71-98
+	android:name
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:80:19-70
+service#info.xuluan.podcast.service.PodcastService
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:81:9-109
+	android:enabled
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:81:18-40
+	android:name
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:81:41-98
+service#info.xuluan.podcast.service.PlayerService
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:82:9-108
+	android:enabled
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:82:18-40
+	android:name
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:82:41-97
+provider#info.xuluan.podcast.provider.PodcastProvider
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:83:9-157
+	android:authorities
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:83:79-145
+	android:name
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:83:19-78
+instrumentation
+ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:86:5-88:57
+	android:label
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:88:22-55
+	android:targetPackage
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:87:22-66
+	android:name
+		ADDED from D:\tmp\Desktop\HapiPodcastJ-master\app\src\main\AndroidManifest.xml:86:22-75

@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_home.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\ic_home.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\feed_viewed.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\feed_viewed.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\playable.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\playable.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\framed_border.9.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\framed_border.9.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\episode_big_pic.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\episode_big_pic.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\download_wait.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\download_wait.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blank.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\blank.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_button.xml",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\home_button.xml"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player3_big_pic.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\player3_big_pic.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\deleted.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\deleted.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_dialog_icon.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\alert_dialog_icon.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_button_normal.9.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\home_button_normal.9.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_pause.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\play_pause.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pause.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\pause.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\new_item.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\new_item.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\music.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\music.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\open_item.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\open_item.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\playlist_big_pic.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\playlist_big_pic.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\download_big_pic.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\download_big_pic.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_mark.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\ic_menu_mark.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_button_focused.9.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\home_button_focused.9.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help_big_pic.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\help_big_pic.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\feed_new.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\feed_new.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\suspended.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\suspended.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_ready.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\play_ready.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\channel_big_pic.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\channel_big_pic.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notify_player.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\notify_player.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_clear_playlist.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\ic_menu_clear_playlist.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\download_pause.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\download_pause.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_big_pic.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\search_big_pic.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_play.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\no_play.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\downloading.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\downloading.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings_big_pic.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\settings_big_pic.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\download.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\download.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\played.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\played.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_button_pressed.9.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\home_button_pressed.9.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\status_unknown.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\status_unknown.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\channel_add_big_pic.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\channel_add_big_pic.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backup_big_pic.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\backup_big_pic.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\waiting.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\waiting.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\playing.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\playing.png"
+    },
+    {
+        "merged": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\keep.png",
+        "source": "D:\\tmp\\Desktop\\HapiPodcastJ-master\\app\\src\\main\\res\\drawable\\keep.png"
+    }
+]

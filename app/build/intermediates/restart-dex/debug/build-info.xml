@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="25"
+    density="560dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="11790257161578"
+    token="-4005050093682593879"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="11682521319283"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\tmp\Desktop\HapiPodcastJ-master\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="11775747156142"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\tmp\Desktop\HapiPodcastJ-master\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="D:\tmp\Desktop\HapiPodcastJ-master\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="11790257161578"
+        verifier="COLD_SWAP_REQUESTED" />
+
+</instant-run>
